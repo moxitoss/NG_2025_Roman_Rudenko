@@ -1,0 +1,38 @@
+# Qt/Qt Creator
+*.pro.user
+*.pro.user.* 
+*.qmake.stash
+*.qrc~
+*.moc
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+*.log
+*.tmp
+*.user
+*.user.* 
+*.autosave
+
+# Build folders
+build*/
+bin*/
+Debug*/
+Release*/
+
+# Backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
