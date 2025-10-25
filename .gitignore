@@ -36,3 +36,4 @@ Release*/
 
 # Windows
 Thumbs.db
+*.pro
